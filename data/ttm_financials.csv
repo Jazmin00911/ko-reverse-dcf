@@ -1,0 +1,8 @@
+metric,period,value_usd_millions,fy2025,9m_2026,9m_2025,calculation,source
+capital_expenditures_reported,TTM through Q3 2026,1945.0,2112.0,1063.0,1230.0,FY2025 + 9M 2026 - 9M 2025,Coca-Cola FY2025 Form 10-K and Q3 2026 Form 10-Q
+depreciation_amortization,TTM through Q3 2026,1019.0,1050.0,783.0,814.0,FY2025 + 9M 2026 - 9M 2025,Coca-Cola FY2025 Form 10-K and Q3 2026 Form 10-Q
+ebit,TTM through Q3 2026,15337.0,13762.0,13496.0,11921.0,FY2025 + 9M 2026 - 9M 2025,Coca-Cola FY2025 Form 10-K and Q3 2026 Form 10-Q
+income_before_income_taxes,TTM through Q3 2026,17881.0,15998.0,14919.0,13036.0,FY2025 + 9M 2026 - 9M 2025,Coca-Cola FY2025 Form 10-K and Q3 2026 Form 10-Q
+income_tax_expense,TTM through Q3 2026,3105.0,2861.0,2459.0,2215.0,FY2025 + 9M 2026 - 9M 2025,Coca-Cola FY2025 Form 10-K and Q3 2026 Form 10-Q
+net_change_operating_assets_liabilities,TTM through Q3 2026,334.0,-7208.0,-498.0,-8040.0,FY2025 + 9M 2026 - 9M 2025,Coca-Cola FY2025 Form 10-K and Q3 2026 Form 10-Q
+revenue,TTM through Q3 2026,51054.0,47941.0,39232.0,36119.0,FY2025 + 9M 2026 - 9M 2025,Coca-Cola FY2025 Form 10-K and Q3 2026 Form 10-Q

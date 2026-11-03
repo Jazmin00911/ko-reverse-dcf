@@ -1,0 +1,23 @@
+metric,period,value_usd_millions,source,source_label
+revenue,Q3 2026,13380.0,Coca-Cola Q3 2026 Form 10-Q,Net Operating Revenues
+revenue,Q3 2025,12455.0,Coca-Cola Q3 2026 Form 10-Q,Net Operating Revenues
+revenue,9M 2026,39232.0,Coca-Cola Q3 2026 Form 10-Q,Net Operating Revenues
+revenue,9M 2025,36119.0,Coca-Cola Q3 2026 Form 10-Q,Net Operating Revenues
+ebit,Q3 2026,4465.0,Coca-Cola Q3 2026 Form 10-Q,Operating Income
+ebit,Q3 2025,3982.0,Coca-Cola Q3 2026 Form 10-Q,Operating Income
+ebit,9M 2026,13496.0,Coca-Cola Q3 2026 Form 10-Q,Operating Income
+ebit,9M 2025,11921.0,Coca-Cola Q3 2026 Form 10-Q,Operating Income
+income_tax_expense,Q3 2026,777.0,Coca-Cola Q3 2026 Form 10-Q,Income taxes
+income_tax_expense,Q3 2025,500.0,Coca-Cola Q3 2026 Form 10-Q,Income taxes
+income_tax_expense,9M 2026,2459.0,Coca-Cola Q3 2026 Form 10-Q,Income taxes
+income_tax_expense,9M 2025,2215.0,Coca-Cola Q3 2026 Form 10-Q,Income taxes
+income_before_income_taxes,Q3 2026,4833.0,Coca-Cola Q3 2026 Form 10-Q,Income before income taxes
+income_before_income_taxes,Q3 2025,4183.0,Coca-Cola Q3 2026 Form 10-Q,Income before income taxes
+income_before_income_taxes,9M 2026,14919.0,Coca-Cola Q3 2026 Form 10-Q,Income before income taxes
+income_before_income_taxes,9M 2025,13036.0,Coca-Cola Q3 2026 Form 10-Q,Income before income taxes
+depreciation_amortization,9M 2026,783.0,Coca-Cola Q3 2026 Form 10-Q,Depreciation and amortization
+depreciation_amortization,9M 2025,814.0,Coca-Cola Q3 2026 Form 10-Q,Depreciation and amortization
+capital_expenditures_reported,9M 2026,1063.0,Coca-Cola Q3 2026 Form 10-Q,"Purchases of property, plant and equipment"
+capital_expenditures_reported,9M 2025,1230.0,Coca-Cola Q3 2026 Form 10-Q,"Purchases of property, plant and equipment"
+net_change_operating_assets_liabilities,9M 2026,-498.0,Coca-Cola Q3 2026 Form 10-Q,Net change in operating assets and liabilities
+net_change_operating_assets_liabilities,9M 2025,-8040.0,Coca-Cola Q3 2026 Form 10-Q,Net change in operating assets and liabilities

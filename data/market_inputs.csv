@@ -1,0 +1,9 @@
+input,value,units,source,as_of,notes
+valuation_date,2026-10-23,date,Market close,2026-10-23,Pricing snapshot. SEC data is selected strictly as of this date (no look-ahead).
+share_price,92.71,USD,NYSE consolidated tape,2026-10-23,Unadjusted close on the valuation date.
+risk_free_rate,0.05,decimal,FRED DGS10 (10-year US Treasury),2026-10-23,Verify against the FRED series before use.
+equity_risk_premium,0.0445,decimal,NYU Stern (Damodaran) implied ERP,2026-10-01,Forward-looking implied premium for the US market.
+beta,0.58,multiple,Regression vs S&P 500 (60m),2026-10-01,Regression beta; Damodaran prefers a bottom-up (industry) beta - see README.
+pre_tax_cost_of_debt,0.0625,decimal,Weighted YTM on senior unsecured bonds,2026-10-01,Held constant when risk-free rate is flexed (see README).
+marginal_tax_rate,0.21,decimal,US statutory federal rate,2026,Used only for the interest tax shield in WACC.
+terminal_growth_rate,0.025,decimal,Long-run nominal growth cap (below risk-free rate),2026,Damodaran: stable growth must not exceed the risk-free rate.

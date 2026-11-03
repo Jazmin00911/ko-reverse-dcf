@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+data/raw/
+outputs/*
+!outputs/reverse_dcf_model.xlsx

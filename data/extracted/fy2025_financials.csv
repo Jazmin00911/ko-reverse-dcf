@@ -1,0 +1,8 @@
+metric,period,value_usd_millions,source,source_label
+revenue,FY2025,47941.0,Coca-Cola FY2025 Form 10-K,Net Operating Revenues
+ebit,FY2025,13762.0,Coca-Cola FY2025 Form 10-K,Operating Income
+income_before_income_taxes,FY2025,15998.0,Coca-Cola FY2025 Form 10-K,Income before income taxes
+income_tax_expense,FY2025,2861.0,Coca-Cola FY2025 Form 10-K,Income taxes
+depreciation_amortization,FY2025,1050.0,Coca-Cola FY2025 Form 10-K,Depreciation and amortization
+capital_expenditures_reported,FY2025,2112.0,Coca-Cola FY2025 Form 10-K,"Purchases of property, plant and equipment"
+net_change_operating_assets_liabilities,FY2025,-7208.0,Coca-Cola FY2025 Form 10-K,Net change in operating assets and liabilities
