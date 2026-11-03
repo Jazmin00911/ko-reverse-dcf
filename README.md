@@ -1,4 +1,4 @@
-# Coca-Cola (KO) Reverse DCF — Damodaran FCFF framework
+# Coca-Cola (KO) Reverse DCF
 
 A reverse discounted-cash-flow model. Instead of forecasting growth to find a value, it takes
 today's **market price**, backs out the constant FCFF growth rate the market is already
